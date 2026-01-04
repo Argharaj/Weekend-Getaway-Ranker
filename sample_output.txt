@@ -1,0 +1,8 @@
+Top Weekend Places in delhi
+
+        Name State  Google review rating  Number of google review in lakhs  time needed to visit in hrs
+  India Gate Delhi                   4.6                              2.60                          0.5
+ Qutub Minar Delhi                   4.5                              1.37                          1.0
+    Red Fort Delhi                   4.5                              1.50                          2.0
+Lotus Temple Delhi                   4.5                              0.59                          1.0
+Lodhi Garden Delhi                   4.5                              0.48                          1.0
