@@ -15,7 +15,14 @@ city-wise. A basic weighted scoring logic is used to rank the places.
 - Places from that city are filtered
 - Rating, popularity, and visit time are normalized
 - A final score is calculated to rank the places
-- 
+## How to Run
+1. Install dependencies  
+   pip install -r requirements.txt
+
+2. Run the program  
+   python  ranker.py
+
+3. Enter a city name when prompted
 ## Notes
 - The dataset does not contain distance, so visit duration is used instead
 - This project is intended as a learning and demo project
